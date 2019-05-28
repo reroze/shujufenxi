@@ -1,0 +1,1 @@
+void quhuanhang(char *s);
